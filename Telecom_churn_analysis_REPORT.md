@@ -114,7 +114,7 @@ This dashboard analyzes customer churn trends, helping to identify high-risk gro
 📌 **Dashboard Screenshot:** 
 
 ### 📉 Churn Analysis  
-![Customers Churn Dashboard](Customers%20churn%20dashboard.png)
+Customers Churn Dashboard.png
 
 
 ---
