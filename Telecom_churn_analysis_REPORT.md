@@ -94,7 +94,10 @@ This dashboard provides an overview of the customer base, highlighting key demog
 - **Doughnut Chart:** Revenue by citizen status.
 - **Cards:** Total Customers, Total Revenue, Average Monthly Charges, Admin & Tech Ticket Counts.
 
-📌 **Dashboard Screenshot:** *(Insert Image Here)*
+📌 **Dashboard Screenshots:**
+
+### 📊 Customer Demographics  
+![Customer Demographics](Customers%20demographics.png)
 
 ---
 
@@ -108,7 +111,11 @@ This dashboard analyzes customer churn trends, helping to identify high-risk gro
 - **Doughnut Chart:** Churn by gender.
 - **Cards:** Customers at Risk, Total Revenue, Churn Rate, Average Monthly Charges.
 
-📌 **Dashboard Screenshot:** *(Insert Image Here)*
+📌 **Dashboard Screenshot:** 
+
+### 📉 Churn Analysis  
+![Customers Churn Dashboard](Customers%20churn%20dashboard.png)
+
 
 ---
 
@@ -123,8 +130,10 @@ This dashboard focuses on retention patterns and factors influencing long-term c
 - **Bar Chart:** Retention by tenure range.
 - **Cards:** Retention Rate, Active Customers, Average CLV, Total Revenue, Average Monthly Charges.
 
-📌 **Dashboard Screenshot:** *(Insert Image Here)*
+📌 **Dashboard Screenshot:** 
 
+### 🔄 Retention Analysis  
+![Customers Retention Dashboard](Customers%20retention%20dashboard.png)
 ---
 
 ## **Interpretation of Data**
