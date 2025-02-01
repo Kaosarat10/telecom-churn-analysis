@@ -10,10 +10,6 @@
 7. [Recommendations](#recommendations)  
 8. [Conclusion](#conclusion)
 
-## Introduction  
-This project focuses on customer churn analysis, identifying factors influencing customer retention and churn. The analysis was performed using **Excel** for data preparation and **Power BI** for dashboard creation, incorporating **calculated columns** and **DAX measures** to extract meaningful insights.
-
-
 
 ## **Introduction**
 This project focuses on customer churn analysis, identifying factors influencing customer retention and churn. The analysis was performed using **Excel** for data preparation and **Power BI** for dashboard creation, incorporating **calculated columns** and **DAX measures** to extract meaningful insights.
