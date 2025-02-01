@@ -114,7 +114,8 @@ This dashboard analyzes customer churn trends, helping to identify high-risk gro
 📌 **Dashboard Screenshot:** 
 
 ### 📉 Churn Analysis  
-Customers demographics.png
+![Customers Churn Dashboard](Customers%20churn%20dashboard.png)
+
 
 
 ---
@@ -133,7 +134,7 @@ This dashboard focuses on retention patterns and factors influencing long-term c
 📌 **Dashboard Screenshot:** 
 
 ### 🔄 Retention Analysis  
-![Customers Retention Dashboard](Customers%20retention%20dashboard.png)
+![Customers Retention Dashboard](Customes%20retention%20dashboard.png)
 ---
 
 ## **Interpretation of Data**
