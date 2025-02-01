@@ -1,14 +1,25 @@
 # **Customer Churn Analysis**
 
 ##  Table of Contents  
-1. [Introduction](#introduction)  
-2. [Data Overview](#data-overview)  
-3. [Data Cleaning & Preparation](#data-cleaning--preparation)  
-4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-5. [Key Insights & Findings](#key-insights--findings)  
-6. [Visualizations & Dashboard Overview](#visualizations--dashboard-overview)  
-7. [Recommendations](#recommendations)  
-8. [Conclusion](#conclusion)
+- [Introduction](#introduction)
+- [Project Aim](#project-aim)
+- [Project Description](#project-description)
+- [Key Insights Derived](#key-insights-derived)
+- [Data Acquisition and Preparation](#data-acquisition-and-preparation)
+  - [Data Cleaning](#data-cleaning)
+  - [Data Transformations](#data-transformations)
+    - [Calculated Columns](#calculated-columns)
+    - [DAX Measures](#dax-measures)
+- [Data Analysis and Visualization](#data-analysis-and-visualization)
+  - [Visualization Tools Used](#visualization-tools-used)
+- [Dashboards and Insights](#dashboards-and-insights)
+  - [Customer Demographics Dashboard](#1️⃣-customer-demographics-dashboard)
+  - [Churn Analysis Dashboard](#2️⃣-churn-analysis-dashboard)
+  - [Customer Retention Dashboard](#3️⃣-customer-retention-dashboard)
+- [Interpretation of Data](#interpretation-of-data)
+  - [Churn Insights – Who is Leaving and Why?](#churn-insights--who-is-leaving-and-why)
+  - [Retention Insights – Who is Staying and Why?](#retention-insights--who-is-staying-and-why)
+- [Strategic Recommendations – How to Reduce Churn?](#strategic-recommendations--how-to-reduce-churn)
 
 
 ## **Introduction**
