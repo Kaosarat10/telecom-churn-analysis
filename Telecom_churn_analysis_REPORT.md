@@ -1,5 +1,18 @@
 # **Customer Churn Analysis**
 
+# Telecom Churn Analysis
+
+## \ud83d\udccc Table of Contents  
+1. [Introduction](#introduction)  
+2. [Data Overview](#data-overview)  
+3. [Data Cleaning & Preparation](#data-cleaning--preparation)  
+4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+5. [Key Insights & Findings](#key-insights--findings)  
+6. [Visualizations & Dashboard Overview](#visualizations--dashboard-overview)  
+7. [Recommendations](#recommendations)  
+8. [Conclusion](#conclusion)  
+
+
 ## **Introduction**
 This project focuses on customer churn analysis, identifying factors influencing customer retention and churn. The analysis was performed using **Excel** for data preparation and **Power BI** for dashboard creation, incorporating **calculated columns** and **DAX measures** to extract meaningful insights.
 
