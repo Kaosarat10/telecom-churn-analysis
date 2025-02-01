@@ -134,7 +134,7 @@ This dashboard focuses on retention patterns and factors influencing long-term c
 📌 **Dashboard Screenshot:** 
 
 ### 🔄 Retention Analysis  
-![Customers Retention Dashboard](Customes%20Retention%20Dashboard.png)
+![Customers Retention Dashboard](Customers%20Retention%20Dashboard.png)
 ---
 
 ## **Interpretation of Data**
